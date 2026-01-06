@@ -1,0 +1,10 @@
+"course_id","course_name","department","credits"
+101,"DBMS","CS",3
+102,"Data Structures","CS",4
+103,"Operating Systems","CS",4
+201,"Circuits","EE",4
+202,"Signals and Systems","EE",3
+301,"Thermodynamics","ME",3
+302,"Fluid Mechanics","ME",4
+401,"Computer Networks","IT",4
+402,"Software Engineering","IT",3

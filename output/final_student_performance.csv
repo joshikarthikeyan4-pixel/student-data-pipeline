@@ -1,0 +1,16 @@
+student_id,name,gender,student_department,admission_year,enrollment_id,course_id,semester,marks,passed,passed_students,course_name,course_department,credits
+1,Aarav,M,CS,2022,1,101,2023-1,78.0,True,,DBMS,CS,3
+1,Aarav,M,CS,2022,2,102,2023-1,85.0,True,,Data Structures,CS,4
+2,Diya,F,EE,2021,3,201,2023-1,67.0,True,,Circuits,EE,4
+2,Diya,F,EE,2021,12,202,2023-1,72.0,True,,Signals and Systems,EE,3
+3,Rohan,M,ME,2023,4,301,2023-1,45.0,False,,Thermodynamics,ME,3
+3,Rohan,M,ME,2023,13,302,2023-1,55.0,True,,Fluid Mechanics,ME,4
+4,Ananya,F,CS,2022,5,101,2023-1,92.0,True,,DBMS,CS,3
+4,Ananya,F,CS,2022,14,102,2023-1,90.0,True,,Data Structures,CS,4
+5,Kunal,M,IT,2021,6,401,2023-1,74.0,True,,Computer Networks,IT,4
+6,Priya,F,CS,2023,7,103,2023-1,88.0,True,,Operating Systems,CS,4
+6,Priya,F,CS,2023,15,101,2023-1,84.0,True,,DBMS,CS,3
+7,Arjun,M,EE,2022,8,202,2023-1,59.0,True,,Signals and Systems,EE,3
+8,Sneha,F,ME,2021,9,302,2022,63.0,True,,Fluid Mechanics,ME,4
+9,Rahul,M,IT,2022,10,402,2023-1,,False,,Software Engineering,IT,3
+10,Neha,F,CS,2021,11,101,2023-1,81.0,True,,DBMS,CS,3
