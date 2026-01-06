@@ -24,7 +24,7 @@ The project uses three relational tables exported from PostgreSQL:
 - Python
 - Pandas
 - PostgreSQL
-- VS Code
+- Git & Github
 
 ## Output
 Final dataset is saved at:
@@ -34,4 +34,21 @@ output/final_student_performance.csv
 - SQL to Pandas data integration
 - Data validation and joins
 - Handling missing values
-- Building script-based data pipelines.
+- Building script-based data pipelines. 
+
+
+## How to Run
+1.Clone the repository.
+2.Install python and the necessary the necessary packages 
+3.Install the dependecies:
+pip install pandas
+4.Run the pipeline:
+python pipeline.py 
+
+
+## WHY This Project?
+-This project demonstrates the core data engineering skills:
+SQL-based data extraction,running queries and Python based transfromation.
+also builds reproducable data pipelines.
+
+
